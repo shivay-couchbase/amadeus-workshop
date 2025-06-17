@@ -4,6 +4,9 @@
 
 # Workshop: Semantic AI Agents for Real-World Applications
 
+
+https://github.com/shivay-couchbase/jonthbeach-ai-agents-workshop/blob/main/crew_index.json
+
 In this session, we will explore how to build a powerful semantic search engine using **Couchbase** as the backend database and **CrewAI** for agent-based Retrieval-Augmented Generation (RAG) operations. This workshop is designed to provide hands-on experience with creating AI agents that collaborate to retrieve, analyze, and generate meaningful responses to user queries.
 
 ---
